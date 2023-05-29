@@ -31,6 +31,7 @@ const headerStyle: React.CSSProperties = {
 
   interface IHeaderProps {
      children?: any
+     test?:any
   }
   
 
